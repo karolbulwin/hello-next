@@ -9,6 +9,7 @@
     "build": "next build",
     "now-build": "next build",
     "start": "NODE_ENV=production node server.js",
+    "export": "next export",
     "start-port": "next start -p $PORT"
   },
   "keywords": [],
