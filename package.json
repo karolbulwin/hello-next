@@ -8,8 +8,8 @@
     "dev": "node server.js",
     "build": "next build",
     "now-build": "next build",
-    "start-prod": "NODE_ENV=production node server.js",
-    "start": "next start -p $PORT"
+    "start": "NODE_ENV=production node server.js",
+    "start-port": "next start -p $PORT"
   },
   "keywords": [],
   "author": "",
